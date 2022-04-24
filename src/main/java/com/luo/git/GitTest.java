@@ -6,6 +6,7 @@ package com.luo.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("first change");
-        System.out.println("third change");
+        System.out.println("second change");
+
     }
 }
